@@ -1,4 +1,4 @@
-const array = [11, 2, 44, 7, 6, 25, 19, 47, 10];
+const array = [11, 2, 44, 7, 6, 25, 19, 47, 10, 45, 42, 11, 50, 33, 23];
 
 function getsecondLargestNumber(array){
     let largestNumber = array[0];
